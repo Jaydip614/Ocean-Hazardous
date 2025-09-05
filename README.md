@@ -25,6 +25,9 @@ While agencies like **INCOIS** provide early warnings based on **satellite data,
 - **Real-time field reporting from citizens and local communities** is often unavailable or delayed.  
 - **Valuable insights from social media discussions** during hazard events remain untapped, even though they are critical for understanding **ground realities, public awareness, and misinformation spread**.
 
+**Current Top-Down Approach**  
+![Top-Down](./assets/top_down_aproach.jpg)
+
 ---
 
 ## 📝 Detailed Description
@@ -37,7 +40,10 @@ This platform should:
 - Visualize all crowdsourced reports and social media indicators on an **interactive map**, with **hotspots dynamically generated** based on report density, keyword frequency, or verified incidents.  
 - Integrate **social media feeds** (e.g., Twitter, public Facebook posts, YouTube comments) and apply **NLP/Text Classification** to extract hazard-related discussions and trends.  
 - Help emergency response agencies understand the **scale, urgency, and sentiment** of hazard events.  
-- Provide **filters by location, event type, date, and source**, enabling better situational awareness and faster validation of warning models.  
+- Provide **filters by location, event type, date, and source**, enabling better situational awareness and faster validation of warning models. 
+
+**Proposed Bottom-Up Approach**  
+![Bottom-Up](./assets/bottom_up_aproach.jpg)
 
 ---
 
@@ -69,15 +75,6 @@ A **unified mobile + web platform** that:
 - Provides **role-based dashboards** for citizens, officials, and analysts.
 - Visualizes real-time reports & hotspots on an **interactive map**.
 - Builds a **continuous feedback loop**: Citizens → Officials → Analysts → INCOIS → Citizens.
-
-<p align="center">
-  <img src="./assets/top_bottom_aproach.jpg" alt="Current Top-Down Approach" width="45%" />
-  <img src="./assets/bottom_up_aproach.jpg" alt="Proposed Bottom-Up Approach" width="45%" />
-</p>
-
-<p align="center">
-  <b>Figure:</b> Left – Current Top-Down Approach | Right – Proposed Bottom-Up Approach
-</p>
 
 ---
 
