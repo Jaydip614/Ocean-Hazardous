@@ -3,6 +3,7 @@
 ## 📌 Overview
 This project proposes an **integrated software platform (mobile + web)** that empowers citizens, coastal communities, and disaster management authorities by combining **crowdsourced hazard reporting, social media analytics, and INCOIS early warning models**.  
 It is developed under:
+
 // **Organization**: [Ministry of Earth Sciences (MoES)](https://www.moes.gov.in)  
 // **Department**: [Indian National Centre for Ocean Information Services (INCOIS)](https://incois.gov.in)  
 // **Theme**: [Disaster Management](https://ndma.gov.in)
