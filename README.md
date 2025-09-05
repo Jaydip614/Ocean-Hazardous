@@ -72,10 +72,6 @@ A **unified mobile + web platform** that:
 
 ---
 
-## 🏗️ System Architecture (Text Prototype)
-
----
-
 ## 🔄 Methodology & Implementation Process (Flow)
 
 The system follows a step-by-step workflow combining **citizen reporting, social media analytics, and INCOIS early warning models**.
