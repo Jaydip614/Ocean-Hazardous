@@ -70,12 +70,14 @@ A **unified mobile + web platform** that:
 - Visualizes real-time reports & hotspots on an **interactive map**.
 - Builds a **continuous feedback loop**: Citizens → Officials → Analysts → INCOIS → Citizens.
 
-**Current Top-Down Approach**  
-![Top-Down](./assets/top_bottom_aproach.jpg)
+<p align="center">
+  <img src="./assets/top_down.png" alt="Current Top-Down Approach" width="45%" />
+  <img src="./assets/bottom_up.png" alt="Proposed Bottom-Up Approach" width="45%" />
+</p>
 
-**Proposed Bottom-Up Approach**  
-![Bottom-Up](./assets/bottom_up_aproach.jpg)
-
+<p align="center">
+  <b>Figure:</b> Left – Current Top-Down Approach | Right – Proposed Bottom-Up Approach
+</p>
 
 ---
 
