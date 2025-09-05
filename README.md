@@ -71,8 +71,8 @@ A **unified mobile + web platform** that:
 - Builds a **continuous feedback loop**: Citizens → Officials → Analysts → INCOIS → Citizens.
 
 <p align="center">
-  <img src="./assets/top_down.png" alt="Current Top-Down Approach" width="45%" />
-  <img src="./assets/bottom_up.png" alt="Proposed Bottom-Up Approach" width="45%" />
+  <img src="./assets/top_bottom_aproach.png" alt="Current Top-Down Approach" width="45%" />
+  <img src="./assets/bottom_up_aproach.png" alt="Proposed Bottom-Up Approach" width="45%" />
 </p>
 
 <p align="center">
