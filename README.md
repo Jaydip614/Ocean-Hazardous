@@ -1,7 +1,8 @@
 # 🌊 Integrated Platform for Crowdsourced Ocean Hazard Reporting and Social Media Analytics
 
 ## 📌 Overview
-This project proposes an **integrated software platform (mobile + web)** that empowers citizens, coastal communities, and disaster management authorities by combining **crowdsourced hazard reporting, social media analytics, and INCOIS early warning models**.  
+This project proposes an **integrated software platform (mobile + web)** that empowers citizens, coastal communities, and disaster management authorities by combining **crowdsourced hazard reporting, social media analytics, and INCOIS early warning models**.
+
 It is developed under:
 
 **Organization**: [Ministry of Earth Sciences (MoES)](https://www.moes.gov.in)  
@@ -113,9 +114,71 @@ A **unified mobile + web platform** that:
 ---
 
 ## 🚀 Roadmap
-1. **Phase 1 – Prototype**: Citizen reporting app + basic dashboard.  
-2. **Phase 2 – AI/NLP Integration**: Social media mining + sentiment analysis.  
-3. **Phase 3 – Full Deployment**: Hotspots, multilingual offline support, INCOIS integration.  
+
+The project will be developed in **three major phases**, each building on the previous one.  
+This ensures **agile, iterative progress** with continuous feedback from stakeholders.
+
+---
+
+### **Phase 1 – Prototype (MVP)**  
+🎯 Goal: Establish the foundation with citizen reporting and a basic dashboard.
+
+- ✅ Mobile app for citizens (Flutter, Android/iOS).  
+  - User registration, multilingual support.  
+  - Submit hazard reports (photo, video, text, geotag).  
+  - Offline-first reporting (sync when online).  
+- ✅ Basic web dashboard for officials.  
+  - View and validate citizen reports.  
+  - Push alerts/notifications to users.  
+- ✅ Database + backend setup (Node.js/Express, MongoDB/PostgreSQL).  
+- ✅ Cloud deployment (AWS/GCP).  
+
+📌 **Deliverable:** A working MVP for citizen reporting + official validation.
+
+---
+
+### **Phase 2 – AI/NLP Integration**  
+🎯 Goal: Leverage social media & AI for real-time insights.
+
+- 🔹 Social media data ingestion (Twitter/X, Facebook, YouTube APIs).  
+- 🔹 NLP/AI pipeline for:  
+  - Hazard classification.  
+  - Sentiment analysis (panic vs awareness).  
+  - Misinformation & rumor detection.  
+- 🔹 Real-time hazard clustering & hotspot visualization on map.  
+- 🔹 Enhanced official dashboard with prioritization tools.  
+- 🔹 Citizen app enhancements:  
+  - Interactive hazard map.  
+  - Upvote/flag reports.  
+  - Awareness material (safety guides, do’s & don’ts).  
+
+📌 **Deliverable:** AI-powered dashboards + integrated citizen/social media hazard feeds.
+
+---
+
+### **Phase 3 – Full Deployment & Scaling**  
+🎯 Goal: Create a production-ready, large-scale, resilient system.
+
+- 🚀 INCOIS model integration (tsunami, cyclone, storm surge data).  
+- 🚀 Multi-language support across all India’s coastal languages.  
+- 🚀 Advanced features:  
+  - SOS emergency button (with location sharing).  
+  - Role-based access control (citizens, officials, analysts, admins).  
+  - Historical trend analysis + reports for policy makers.  
+- 🚀 Secure messaging/alerts via Firebase, SMS (Twilio), WhatsApp API.  
+- 🚀 Scalability with Kubernetes/Docker.  
+- 🚀 Continuous feedback loop: Citizens ↔ Officials ↔ Analysts ↔ INCOIS.  
+
+📌 **Deliverable:** A fully integrated national platform, production-ready, scalable, and replicable globally.
+
+---
+
+### **Long-Term Vision**  
+- 🌍 Replication for other coastal nations.  
+- 📡 IoT & satellite data integration.  
+- 🤖 AI-driven predictive hazard modeling.  
+- 🛰️ Partnerships with global organizations (UNDRR, IOC-UNESCO, WMO).  
+- 🎓 Community gamification (hazard reporting rewards, awareness drives).  
 
 ---
 
