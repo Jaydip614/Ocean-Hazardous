@@ -80,7 +80,7 @@ A **unified mobile + web platform** that:
 
 The system follows a step-by-step workflow combining **citizen reporting, social media analytics, and INCOIS early warning models**.
 
-![System Workflow](./assets/system-working-flow.png)
+![System Workflow](./assets/system-working-flow.jpg)
 
 
 ---
