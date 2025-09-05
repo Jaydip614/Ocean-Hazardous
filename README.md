@@ -191,6 +191,6 @@ We welcome contributions from researchers, developers, and volunteers passionate
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](./LICENSE). – feel free to use, modify, and distribute with proper attribution.  
+This project is licensed under the [MIT License](./LICENSE.txt). – feel free to use, modify, and distribute with proper attribution.  
 
 ---
